@@ -5,7 +5,7 @@
 ### Roles:
   - ngnix
   - Infrastructure for  EC2 Provision in AWS
-  - ami_template to build customized AMI for auto scaling
+  - Used ami_template for auto scaling
 
 #### executing Playbook:
   - Update  env variables in awsenvvars.yml in files directory
